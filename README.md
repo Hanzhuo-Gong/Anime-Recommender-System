@@ -1,6 +1,6 @@
 # Anime Recommender System
 
-This project is for COEN 140 final project. Will plan to expand on this project in the future
+This project is for COEN 140 final project. Plan to expand on this project in the future
 
 current approach: User-based, KNN
 
